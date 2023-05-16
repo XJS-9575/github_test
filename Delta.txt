@@ -1,3 +1,4 @@
 This is the Delta file.
 Line added from FirstBranch
-Line added from master
+Line added from SecondBranch
+
