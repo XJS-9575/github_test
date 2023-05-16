@@ -1,4 +1,4 @@
 This is the Delta file.
 Line added from FirstBranch
 Line added from SecondBranch
-Line added from 'master' branch using the local CLI.
+Line added from 'master' branch via githup UI.
